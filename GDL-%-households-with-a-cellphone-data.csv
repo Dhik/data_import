@@ -1,0 +1,31 @@
+Country,Continent,ISO_Code,Level,GDLCODE,Region,"1992","1993","1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020"
+"Indonesia","Asia/Pacific","IDN","National","IDNt","Total",,,,,,,,,,,,,,,,,,79.5,80.7,81.9,83.1,84.3,85.5,86.7,87.8,89.0,90.2,91.4,92.6
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr116","Bali",,,,,,,,,,,,,,,,,,87.7,88.2,88.6,89.1,89.6,90.0,90.5,91.0,91.4,91.9,92.3,92.8
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr109","Bangka Belitung",,,,,,,,,,,,,,,,,,91.4,91.4,91.5,91.6,91.7,91.7,91.8,91.9,92.0,92.0,92.1,92.2
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr115","Banten",,,,,,,,,,,,,,,,,,82.5,83.6,84.7,85.8,86.8,87.9,89.0,90.1,91.2,92.3,93.3,94.4
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr107","Bengkulu",,,,,,,,,,,,,,,,,,83.3,84.3,85.4,86.5,87.6,88.6,89.7,90.8,91.9,93.0,94.0,95.1
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr112","Central Java",,,,,,,,,,,,,,,,,,73.6,75.1,76.7,78.3,79.9,81.4,83.0,84.6,86.1,87.7,89.3,90.9
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr121","Central Kalimantan",,,,,,,,,,,,,,,,,,92.1,92.1,92.1,92.1,92.0,92.0,92.0,92.0,91.9,91.9,91.9,91.9
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr125","Central Sulawesi",,,,,,,,,,,,,,,,,,66.7,69.2,71.8,74.4,77.0,79.6,82.2,84.8,87.3,89.9,92.5,95.1
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr101","DI Aceh",,,,,,,,,,,,,,,,,,83.4,83.9,84.5,85.0,85.5,86.0,86.5,87.1,87.6,88.1,88.6,89.2
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr113","DI Yogyakarta",,,,,,,,,,,,,,,,,,80.2,81.4,82.6,83.9,85.1,86.3,87.6,88.8,90.1,91.3,92.5,93.8
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr110","DKI Jakarta",,,,,,,,,,,,,,,,,,97.1,97.0,97.0,97.0,97.0,97.0,96.9,96.9,96.9,96.9,96.9,96.8
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr114","East Java",,,,,,,,,,,,,,,,,,78.0,79.2,80.4,81.5,82.7,83.9,85.1,86.2,87.4,88.6,89.7,90.9
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr123","East Kalimantan",,,,,,,,,,,,,,,,,,93.4,93.9,94.4,94.8,95.3,95.8,96.2,96.7,97.2,97.7,98.1,98.6
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr118","East Nusa Tenggara",,,,,,,,,,,,,,,,,,49.8,53.4,57.0,60.6,64.1,67.7,71.3,74.9,78.4,82.0,85.6,89.2
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr128","Gorontalo",,,,,,,,,,,,,,,,,,78.8,79.7,80.6,81.5,82.4,83.3,84.2,85.1,86.0,86.8,87.7,88.6
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr130","Irian Jaya (Papua and Papua Barat)",,,,,,,,,,,,,,,,,,39.8,44.4,49.0,53.6,58.3,62.9,67.5,72.1,76.7,81.4,86.0,90.6
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr105","Jambi",,,,,,,,,,,,,,,,,,86.7,87.5,88.3,89.2,90.0,90.8,91.7,92.5,93.4,94.2,95.0,95.9
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr108","Lampung",,,,,,,,,,,,,,,,,,79.4,80.8,82.2,83.6,85.0,86.4,87.8,89.2,90.6,91.9,93.3,94.7
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr129","Maluku",,,,,,,,,,,,,,,,,,67.5,69.9,72.3,74.7,77.1,79.4,81.8,84.2,86.6,88.9,91.3,93.7
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr124","North Sulawesi",,,,,,,,,,,,,,,,,,79.6,81.0,82.5,83.9,85.4,86.8,88.3,89.7,91.2,92.6,94.0,95.5
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr102","North Sumatra",,,,,,,,,,,,,,,,,,80.2,81.5,82.7,84.0,85.3,86.6,87.9,89.1,90.4,91.7,93.0,94.3
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr104","Riau (incl. Riau islands)",,,,,,,,,,,,,,,,,,92.8,93.3,93.8,94.3,94.7,95.2,95.7,96.2,96.6,97.1,97.6,98.1
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr122","South Kalimantan",,,,,,,,,,,,,,,,,,87.9,88.1,88.3,88.6,88.8,89.0,89.2,89.4,89.7,89.9,90.1,90.3
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr126","South Sulawesi (incl Sulawesi Barat)",,,,,,,,,,,,,,,,,,83.5,84.3,85.1,85.9,86.7,87.5,88.2,89.0,89.8,90.6,91.4,92.2
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr106","South Sumatra",,,,,,,,,,,,,,,,,,86.2,86.9,87.5,88.1,88.8,89.4,90.1,90.7,91.4,92.0,92.6,93.3
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr127","Southeast Sulawesi",,,,,,,,,,,,,,,,,,77.7,79.4,81.1,82.8,84.5,86.2,87.9,89.6,91.3,93.0,94.7,96.4
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr111","West Java",,,,,,,,,,,,,,,,,,81.2,82.2,83.2,84.3,85.3,86.3,87.3,88.3,89.3,90.3,91.4,92.4
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr120","West Kalimantan",,,,,,,,,,,,,,,,,,84.5,84.4,84.2,84.0,83.8,83.6,83.4,83.2,83.0,82.9,82.7,82.5
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr117","West Nusa Tenggara",,,,,,,,,,,,,,,,,,59.0,62.2,65.4,68.6,71.8,75.0,78.1,81.3,84.5,87.7,90.9,94.1
+"Indonesia","Asia/Pacific","IDN","Subnat","IDNr103","West Sumatra",,,,,,,,,,,,,,,,,,86.4,87.4,88.4,89.4,90.4,91.4,92.4,93.4,94.4,95.4,96.4,97.4
