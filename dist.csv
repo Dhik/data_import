@@ -1,0 +1,269 @@
+﻿@Id;Admin Leve;Boundary;Hub Name;Id;Is In Muni;Is In Prov;Is In Town;Name;PT HubName;Type;Area neigh;Density N;Fid;Geometry;Hub Dist;Pop Neigh;PT HubDist
+relation/5802121;7;administrative;SCBD;relation/5802121;Pademangan;DKI Jakarta;Jakarta Utara;Ancol;Ancol;boundary;3,77;7985,8461;1;Point;8,772291288;30107;0,743751892
+relation/5802122;7;administrative;SCBD;relation/5802122;Tambora;DKI Jakarta;Jakarta Barat;Pekojan;Bandengan Selatan;boundary;0,78;36465,2956;2;Point;7,763742744;28443;0,098413466
+relation/5802123;7;administrative;SCBD;relation/5802123;Cilincing;DKI Jakarta;Jakarta Utara;Marunda;Stop Point (Green Garden Stop Point) Angkot #28;boundary;7,92;4737,9656;3;Point;17,640378885;37525;4,704307951
+relation/5802124;7;administrative;SCBD;relation/5802124;Pulo Gadung;DKI Jakarta;Jakarta Timur;Kayu Putih;Halte Asmi;boundary;4,37;11419,4213;4;Point;6,626550850;49903;0,831342509
+relation/5802125;7;administrative;SCBD;relation/5802125;Koja;DKI Jakarta;Jakarta Utara;Lagoa;;boundary;1,58;48269,536;5;Point;13,397043270;76266;1,879116801
+relation/5802126;7;administrative;SCBD;relation/5802126;Taman Sari;DKI Jakarta;Jakarta Barat;Mangga Besar;;boundary;0,51;17941,2916;6;Point;6,552011502;9150;0,234300699
+relation/5802127;7;administrative;SCBD;relation/5802127;Tambora;DKI Jakarta;Jakarta Barat;Jembatan Lima;;boundary;0,46;55866,9834;7;Point;6,995502756;25699;0,350383839
+relation/5802128;7;administrative;SCBD;relation/5802128;Pancoran;DKI Jakarta;Jakarta Selatan;Duren Tiga;Potlot;boundary;1,92;18024,4283;8;Point;5,873815453;34607;0,669988657
+relation/5802129;7;administrative;SCBD;relation/5802129;Kelapa Gading;DKI Jakarta;Jakarta Utara;Kelapa Gading Timur;Boulevard Selatan;boundary;5,31;7580,1953;9;Point;9,139919321;40251;0,365302306
+relation/5802130;7;administrative;SCBD;relation/5802130;Kramat Jati;DKI Jakarta;Jakarta Timur;Dukuh;Taman Mini;boundary;1,98;15736,2815;10;Point;11,630147282;31158;0,289458325
+relation/5802131;7;administrative;SCBD;relation/5802131;Setiabudi;DKI Jakarta;Jakarta Selatan;Kuningan Timur;Kantor Taman A9;boundary;2,15;3428,9707;11;Point;3,141060095;7372;0,076520098
+relation/5802132;7;administrative;SCBD;relation/5802132;Kebayoran Lama;DKI Jakarta;Jakarta Selatan;Grogol Selatan;Kebayoran Lama;boundary;0,29;19108,9005;12;Point;5,986191258;5542;0,731561032
+relation/5802133;7;administrative;SCBD;relation/5802133;Jagakarsa;DKI Jakarta;Jakarta Selatan;Ciganjur;Masjid El Syifa;boundary;3,38;14249,7038;13;Point;14,895930438;48164;0,349833750
+relation/5802134;7;administrative;SCBD;relation/5802134;Sawah Besar;DKI Jakarta;Jakarta Pusat;Pasar Baru;Pasar Baru;boundary;1,89;8480,0212;14;Point;4,142967974;16027;0,089247696
+relation/5802136;7;administrative;SCBD;relation/5802136;Duren Sawit;DKI Jakarta;Jakarta Timur;Pondok Kelapa;Klapa Village;boundary;5,72;15634,0121;15;Point;12,268362605;89427;1,037406663
+relation/5802137;7;administrative;SCBD;relation/5802137;Palmerah;DKI Jakarta;Jakarta Barat;Slipi;;boundary;0,97;21112,7079;16;Point;3,189769875;20479;0,345001953
+relation/5802138;7;administrative;SCBD;relation/5802138;Pesanggrahan;DKI Jakarta;Jakarta Selatan;Pesanggrahan;;boundary;2,1;16304,3995;17;Point;9,714327418;34239;0,036517893
+relation/5802139;7;administrative;SCBD;relation/5802139;Palmerah;DKI Jakarta;Jakarta Barat;Kota Bambu Utara;;boundary;0,64;49900,9122;18;Point;3,545180830;31937;0,610466699
+relation/5802140;7;administrative;SCBD;relation/5802140;Tanjung Priok;DKI Jakarta;Jakarta Utara;Tanjung Priok;Sungai Lagoa;boundary;5,54;7918,0505;19;Point;11,840692874;43866;0,331976746
+relation/5802141;7;administrative;SCBD;relation/5802141;Jatinegara;DKI Jakarta;Jakarta Timur;Bali Mester;;boundary;0,67;17265,8453;20;Point;4,542372241;11568;0,217835289
+relation/5802142;7;administrative;SCBD;relation/5802142;Grogol Petamburan;DKI Jakarta;Jakarta Barat;Wijaya Kusuma;Pesing;boundary;2,2;22044,0909;21;Point;7,909037653;48497;0,799491775
+relation/5802143;7;administrative;SCBD;relation/5802143;Kepulauan Seribu Selatan;DKI Jakarta;Kepulauan Seribu;Pulau Pari;;boundary;;;22;Point;42,275998533;;26,984869017
+relation/5802145;7;administrative;SCBD;relation/5802145;Kalideres;DKI Jakarta;Jakarta Barat;Pegadungan;Kalideres;boundary;8,67;10832,3719;23;Point;15,991565844;93917;2,570407527
+relation/5802146;7;administrative;SCBD;relation/5802146;Pancoran;DKI Jakarta;Jakarta Selatan;Rawajati;Gang Kober 2;boundary;;;24;Point;6,723090326;;0,134903768
+relation/5802147;7;administrative;SCBD;relation/5802147;Cipayung;DKI Jakarta;Jakarta Timur;Munjul;Ciracas;boundary;1,9;15691,0142;25;Point;17,626040895;29813;2,962087012
+relation/5802149;7;administrative;SCBD;relation/5802149;Kembangan;DKI Jakarta;Jakarta Barat;Kembangan Utara;Bojong Indah;boundary;3,65;18748,7489;26;Point;10,107616789;68433;1,530401214
+relation/5802150;7;administrative;SCBD;relation/5802150;Cengkareng;DKI Jakarta;Jakarta Barat;Rawa Buaya;Bojong Indah;boundary;4,07;19734,087;27;Point;11,139294249;80318;0,600565486
+relation/5802151;7;administrative;SCBD;relation/5802151;Kebon Jeruk;DKI Jakarta;Jakarta Barat;Sukabumi Utara;"Pos Pengumben;HALTE TJ POS PENGUMBEN";boundary;1,57;30860,6531;28;Point;5,682497358;48451;0,686286390
+relation/5802152;7;administrative;SCBD;relation/5802152;Makasar;DKI Jakarta;Jakarta Timur;Kebon Pala;Cawang Sutoyo;boundary;2,3;25465,3595;29;Point;7,956338446;58570;0,981176892
+relation/5802154;7;administrative;SCBD;relation/5802154;Kramat Jati;DKI Jakarta;Jakarta Timur;Batu Ampar;RS. Dik Pusdikes;boundary;2,55;23672,5811;30;Point;9,129404103;60365;0,863289728
+relation/5802155;7;administrative;SCBD;relation/5802155;Kepulauan Seribu Utara;DKI Jakarta;Kepulauan Seribu;Pulau Kelapa;;boundary;;;31;Point;67,260086560;;53,369878045
+relation/5802156;7;administrative;SCBD;relation/5802156;Grogol Petamburan;DKI Jakarta;Jakarta Barat;Grogol;;boundary;1,22;16829,6865;32;Point;5,946543040;20532;0,371055236
+relation/5802157;7;administrative;SCBD;relation/5802157;Cilincing;DKI Jakarta;Jakarta Utara;Kali Baru;Enggano;boundary;2,47;35922,9834;33;Point;15,010808647;88730;3,420138090
+relation/5802158;7;administrative;SCBD;relation/5802158;Tebet;DKI Jakarta;Jakarta Selatan;Kebon Baru;Gelanggang Remaja;boundary;1,29;33917,5497;34;Point;4,971229951;43754;0,592058472
+relation/5802159;7;administrative;SCBD;relation/5802159;Menteng;DKI Jakarta;Jakarta Pusat;Kebon Sirih;Gondangdia;boundary;0,83;18552,7578;35;Point;2,015540717;15399;0,115048267
+relation/5802160;7;administrative;SCBD;relation/5802160;Jagakarsa;DKI Jakarta;Jakarta Selatan;Lenteng Agung;Halte Taman Lenteng Agung;boundary;2,28;29646,5267;36;Point;13,559522530;67594;0,081932665
+relation/5802161;7;administrative;SCBD;relation/5802161;Johar Baru;DKI Jakarta;Jakarta Pusat;Galur;Galur;boundary;0,26;88652,6718;37;Point;4,198826773;23050;0,203340008
+relation/5802162;7;administrative;SCBD;relation/5802162;Kebayoran Baru;DKI Jakarta;Jakarta Selatan;Melawai;Graha Iskandarsyah;boundary;1,25;2528,5886;38;Point;5,528145000;3161;0,201434663
+relation/5802163;7;administrative;SCBD;relation/5802163;Matraman;DKI Jakarta;Jakarta Timur;Kebon Manggis;;boundary;0,78;25581,1277;39;Point;2,987384158;19953;0,379460984
+relation/5802164;7;administrative;SCBD;relation/5802164;Sawah Besar;DKI Jakarta;Jakarta Pusat;Gunung Sahari Utara;;boundary;1,9;10947,9623;40;Point;6,059924004;20801;0,356714779
+relation/5802165;7;administrative;SCBD;relation/5802165;Tanjung Priok;DKI Jakarta;Jakarta Utara;Warakas;;boundary;1,09;52135,2444;41;Point;10,503724705;56827;0,666902665
+relation/5802166;7;administrative;SCBD;relation/5802166;Taman Sari;DKI Jakarta;Jakarta Barat;Krukut;Gedung Arsip (Bus Wisata);boundary;0,55;43250,4086;42;Point;5,327990556;23788;0,449721911
+relation/5802167;7;administrative;SCBD;relation/5802167;Kebayoran Lama;DKI Jakarta;Jakarta Selatan;Grogol Utara;"Permata Hijau;HALTE TJ PERMATA HIJAU";boundary;3,33;15846,9173;43;Point;4,856708024;52770;0,690180499
+relation/5802168;7;administrative;SCBD;relation/5802168;Tambora;DKI Jakarta;Jakarta Barat;Jembatan Besi;Jembatan Besi;boundary;0,55;66792,6234;44;Point;6,632352920;36736;0,236444852
+relation/5802169;7;administrative;SCBD;relation/5802169;Tanah Abang;DKI Jakarta;Jakarta Pusat;Bendungan Hilir;;boundary;1,58;16987,8604;45;Point;2,248139682;26841;0,532198136
+relation/5802170;7;administrative;SCBD;relation/5802170;Grogol Petamburan;DKI Jakarta;Jakarta Barat;Tanjung Duren Selatan;;boundary;1,77;17445,4494;46;Point;5,163580451;30878;0,338120614
+relation/5802171;7;administrative;SCBD;relation/5802171;Kalideres;DKI Jakarta;Jakarta Barat;Tegal Alur;;boundary;4,97;21347,7219;47;Point;15,740627814;106098;2,651622376
+relation/5802172;7;administrative;SCBD;relation/5802172;Cakung;DKI Jakarta;Jakarta Timur;Penggilingan;Penggilingan;boundary;4,48;27688,9285;48;Point;11,751561631;124046;1,421698794
+relation/5802173;7;administrative;SCBD;relation/5802173;Jatinegara;DKI Jakarta;Jakarta Timur;Rawa Bunga;Jatinegara RS. Premier;boundary;0,88;30480,3195;49;Point;5,086955344;26823;0,258817528
+relation/5802174;7;administrative;SCBD;relation/5802174;Tambora;DKI Jakarta;Jakarta Barat;Kalianyar;Duri;boundary;;;50;Point;6,009036042;;0,396084259
+relation/5802175;7;administrative;SCBD;relation/5802175;Cilincing;DKI Jakarta;Jakarta Utara;Semper Barat;halte pelumpang pertamina;boundary;1,59;55175,0802;51;Point;13,599564058;87728;3,652030468
+relation/5802176;7;administrative;SCBD;relation/5802176;Cakung;DKI Jakarta;Jakarta Timur;Pulo Gebang;Pulogebang;boundary;6,92;17745,5202;52;Point;13,753269502;122799;0,710544095
+relation/5802177;7;administrative;SCBD;relation/5802177;Kelapa Gading;DKI Jakarta;Jakarta Utara;Pegangsaan Dua;Pegangsaan Dua;boundary;6,28;9669,8068;53;Point;10,453910087;60726;0,323742091
+relation/5802178;7;administrative;SCBD;relation/5802178;Palmerah;DKI Jakarta;Jakarta Barat;Kota Bambu Selatan;;boundary;0,58;46820,6286;54;Point;3,303994928;27156;0,290455951
+relation/5802179;7;administrative;SCBD;relation/5802179;Tambora;DKI Jakarta;Jakarta Barat;Duri Utara;;boundary;0,41;60214,8148;55;Point;6,008291964;24688;0,371058362
+relation/5802180;7;administrative;SCBD;relation/5802180;Matraman;DKI Jakarta;Jakarta Timur;Utan Kayu Selatan;Ahmad Yani Bea Cukai;boundary;1,12;36880,2353;56;Point;4,465940456;41306;0,613603429
+relation/5802181;7;administrative;SCBD;relation/5802181;Tanah Abang;DKI Jakarta;Jakarta Pusat;Petamburan;;boundary;0,9;47431,7425;57;Point;2,595642625;42689;0,023821771
+relation/5802182;7;administrative;SCBD;relation/5802182;Mampang Prapatan;DKI Jakarta;Jakarta Selatan;Mampang Prapatan;"Mampang Prapatan;Halte Busway Mampang Prapatan";boundary;0,78;29289,5753;58;Point;4,379366133;22846;0,296582841
+relation/5802183;7;administrative;SCBD;relation/5802183;Kramat Jati;DKI Jakarta;Jakarta Timur;Kampung Tengah;Pasar Induk Kramat Jati;boundary;2,03;27588,3863;59;Point;10,456832864;56004;0,892217625
+relation/5802184;7;administrative;SCBD;relation/5802184;Cilandak;DKI Jakarta;Jakarta Selatan;Gandaria Selatan;Jalan Mangga;boundary;1,77;15339,548;60;Point;8,410551508;27151;0,658886055
+relation/5802185;7;administrative;SCBD;relation/5802185;Taman Sari;DKI Jakarta;Jakarta Barat;Keagungan;Olimo;boundary;0,32;67392,9471;61;Point;5,963170779;21566;0,347691272
+relation/5802186;7;administrative;SCBD;relation/5802186;Kelapa Gading;DKI Jakarta;Jakarta Utara;Kelapa Gading Barat;Sunter Boulevard Barat;boundary;4,53;9541,1811;62;Point;9,101496106;43222;0,919861861
+relation/5802187;7;administrative;SCBD;relation/5802187;Pasar Rebo;DKI Jakarta;Jakarta Timur;Baru;SPBU Jalan Guru Raya;boundary;1,89;16009,5314;63;Point;13,547768195;30258;1,190993991
+relation/5802188;7;administrative;SCBD;relation/5802188;Kebon Jeruk;DKI Jakarta;Jakarta Barat;Kebon Jeruk;Kebon Jeruk;boundary;3,69;18265,4747;64;Point;6,315176462;67400;0,145528638
+relation/5802189;7;administrative;SCBD;relation/5802189;Pasar Rebo;DKI Jakarta;Jakarta Timur;Cijantung;Flyover Raya Bogor;boundary;2,38;21699,0393;65;Point;13,486329262;51644;1,885504612
+relation/5802190;7;administrative;SCBD;relation/5802190;Tanah Abang;DKI Jakarta;Jakarta Pusat;Karet Tengsin;;boundary;1,53;15955,1587;66;Point;1,410194036;24411;0,151740383
+relation/5802191;7;administrative;SCBD;relation/5802191;Pancoran;DKI Jakarta;Jakarta Selatan;Pengadegan;SMP 154;boundary;0,94;27952,28;67;Point;5,892783096;26275;0,092621743
+relation/5802192;7;administrative;SCBD;relation/5802192;Penjaringan;DKI Jakarta;Jakarta Utara;Kamal Muara;;boundary;10,53;1539,2064;68;Point;14,505764989;16208;0,827798122
+relation/5802193;7;administrative;SCBD;relation/5802193;Matraman;DKI Jakarta;Jakarta Timur;Palmeriam;;boundary;;;69;Point;3,357138702;;0,117492588
+relation/5802194;7;administrative;SCBD;relation/5802194;Pancoran;DKI Jakarta;Jakarta Selatan;Kalibata;Halte Empang 3;boundary;2,29;23003,4996;70;Point;6,724703319;52678;0,502078627
+relation/5802195;7;administrative;SCBD;relation/5802195;Cilandak;DKI Jakarta;Jakarta Selatan;Pondok Labu;Pinang 1;boundary;3,91;14524,4183;71;Point;12,256353432;56790;0,048501766
+relation/5802196;7;administrative;SCBD;relation/5802196;Sawah Besar;DKI Jakarta;Jakarta Pusat;Mangga Dua Selatan;Jayakarta;boundary;1,29;27726,3924;72;Point;6,753670094;35767;0,554228743
+relation/5802197;7;administrative;SCBD;relation/5802197;Cilincing;DKI Jakarta;Jakarta Utara;Semper Timur;Stop Point (Green Garden Stop Point) Angkot #28;boundary;3,16;14621,2241;73;Point;14,762379051;46203;3,875918107
+relation/5802198;7;administrative;SCBD;relation/5802198;Kebayoran Baru;DKI Jakarta;Jakarta Selatan;Petogogan;Halte Kantor Walikota Jakarta Selatan;boundary;0,86;16184,3627;74;Point;4,830355611;13919;0,694132298
+relation/5802200;7;administrative;SCBD;relation/5802200;Mampang Prapatan;DKI Jakarta;Jakarta Selatan;Bangka;Jalan Kemang Selatan 1;boundary;3,3;8058,6647;75;Point;6,734847093;26594;0,166794462
+relation/5802201;7;administrative;SCBD;relation/5802201;Kembangan;DKI Jakarta;Jakarta Barat;Srengseng;Perempatan Srengseng Joglo;boundary;4,92;11593,7754;76;Point;8,141829065;57041;0,979524016
+relation/5802202;7;administrative;SCBD;relation/5802202;Tanah Abang;DKI Jakarta;Jakarta Pusat;Kebon Kacang;;boundary;0,71;38264,7887;77;Point;1,908649241;27168;0,144646107
+relation/5802203;7;administrative;SCBD;relation/5802203;Kramat Jati;DKI Jakarta;Jakarta Timur;Cawang;Halte Sekolahan RSUD Budhi Asih;boundary;1,79;22751,899;78;Point;6,746245176;40726;0,635756715
+relation/5802204;7;administrative;SCBD;relation/5802204;Cengkareng;DKI Jakarta;Jakarta Barat;Kedaung Kali Angke;Taman Kota;boundary;2,81;14586,8136;79;Point;9,561146856;40989;0,729393717
+relation/5802205;7;administrative;SCBD;relation/5802205;Gambir;DKI Jakarta;Jakarta Pusat;Kebon Kelapa;;boundary;0,78;16563,3803;80;Point;4,330173533;12919;0,227995721
+relation/5802206;7;administrative;SCBD;relation/5802206;Tanjung Priok;DKI Jakarta;Jakarta Utara;Sungai Bambu;halte pelumpang pertamina;boundary;2,36;15978,8494;81;Point;10,241963025;37710;0,771459265
+relation/5802207;7;administrative;SCBD;relation/5802207;Kebon Jeruk;DKI Jakarta;Jakarta Barat;Kedoya Selatan;Perjuangan Raya;boundary;2,28;17559,3206;82;Point;7,956172187;40035;1,004045095
+relation/5802208;7;administrative;SCBD;relation/5802208;Pasar Rebo;DKI Jakarta;Jakarta Timur;Pekayon;Halte SMAN 38;boundary;3,18;17151,9844;83;Point;16,205920748;54543;3,286870363
+relation/5802209;7;administrative;SCBD;relation/5802209;Kebayoran Baru;DKI Jakarta;Jakarta Selatan;Cipete Utara;Jalan Taman Kemang;boundary;1,83;23141,3699;84;Point;7,007865283;42349;0,809266378
+relation/5802210;7;administrative;SCBD;relation/5802210;Duren Sawit;DKI Jakarta;Jakarta Timur;Pondok Bambu;Halte RS Harum Sisma Medika;boundary;4,9;15673,4736;85;Point;8,726347784;76800;1,718184838
+relation/5802212;7;administrative;SCBD;relation/5802212;Kepulauan Seribu Utara;DKI Jakarta;Kepulauan Seribu;Pulau Panggang;;boundary;;;86;Point;56,595494037;;42,647051423
+relation/5802213;7;administrative;SCBD;relation/5802213;Tanjung Priok;DKI Jakarta;Jakarta Utara;Kebon Bawang;Walikota Jakarta Utara;boundary;1,73;37390,8512;87;Point;11,425372121;64686;0,474244398
+relation/5802214;7;administrative;SCBD;relation/5802214;Kramat Jati;DKI Jakarta;Jakarta Timur;Bale Kambang;Pasar Minggu;boundary;1,67;21972,5291;88;Point;9,071166108;36694;0,942727951
+relation/5802215;7;administrative;SCBD;relation/5802215;Makasar;DKI Jakarta;Jakarta Timur;Pinang Ranti;Pinang Ranti;boundary;2,35;14605,5709;89;Point;11,350157529;34323;0,632121659
+relation/5802216;7;administrative;SCBD;relation/5802216;Palmerah;DKI Jakarta;Jakarta Barat;Palmerah;;boundary;2,33;33541,068;90;Point;4,317986900;78151;0,908857328
+relation/5802217;7;administrative;SCBD;relation/5802217;Cipayung;DKI Jakarta;Jakarta Timur;Ceger;Kampung Rambutan;boundary;3,63;6538,8858;91;Point;13,861580686;23736;0,654388120
+relation/5802218;7;administrative;SCBD;relation/5802218;Tanah Abang;DKI Jakarta;Jakarta Pusat;Kampung Bali;;boundary;0,73;20237,0572;92;Point;2,402044320;14773;0,185445713
+relation/5802219;7;administrative;SCBD;relation/5802219;Tebet;DKI Jakarta;Jakarta Selatan;Manggarai Selatan;Jalan Sadar;boundary;0,51;55327,7573;93;Point;2,882550786;28217;0,275334098
+relation/5802220;7;administrative;SCBD;relation/5802220;Cakung;DKI Jakarta;Jakarta Timur;Jatinegara;Buaran;boundary;6,6;16281,4703;94;Point;9,664639341;107458;1,324616021
+relation/5802221;7;administrative;SCBD;relation/5802221;Jagakarsa;DKI Jakarta;Jakarta Selatan;Jagakarsa;SMAN 49;boundary;4,85;15987,8351;95;Point;13,562650995;77541;0,154151066
+relation/5802222;7;administrative;SCBD;relation/5802222;Taman Sari;DKI Jakarta;Jakarta Barat;Pinangsia;Pangeran Jayakarta;boundary;0,96;13548,1859;96;Point;7,465377489;13006;0,172410893
+relation/5802223;7;administrative;SCBD;relation/5802223;Pasar Minggu;DKI Jakarta;Jakarta Selatan;Kebagusan;Kebagusan III;boundary;2,26;24765,4867;97;Point;11,787022452;55970;0,451356509
+relation/5802224;7;administrative;SCBD;relation/5802224;Pulo Gadung;DKI Jakarta;Jakarta Timur;Cipinang;Cipinang;boundary;1,53;31871,8954;98;Point;6,937556050;48764;0,644381019
+relation/5802225;7;administrative;SCBD;relation/5802225;Kebon Jeruk;DKI Jakarta;Jakarta Barat;Duri Kepa;Kedoya Assiddiqiyah;boundary;3,87;19114,2119;99;Point;6,771519009;73972;1,004650160
+relation/5802226;7;administrative;SCBD;relation/5802226;Cengkareng;DKI Jakarta;Jakarta Barat;Kapuk;Jembatan Gantung;boundary;5,63;30499,5735;100;Point;10,694026232;171713;1,900589261
+relation/5802228;7;administrative;SCBD;relation/5802228;Pesanggrahan;DKI Jakarta;Jakarta Selatan;Petukangan Selatan;;boundary;2,1;22061,4975;101;Point;9,397437358;46329;0,687958601
+relation/5802229;7;administrative;SCBD;relation/5802229;Pasar Minggu;DKI Jakarta;Jakarta Selatan;Cilandak Timur;Halte Masjid Jami Al Maghfiroh;boundary;3,53;8988,5442;102;Point;9,894083155;31730;0,079065501
+relation/5802230;7;administrative;SCBD;relation/5802230;Pulo Gadung;DKI Jakarta;Jakarta Timur;Jati;Layur;boundary;2,16;18573,0859;103;Point;7,622390450;40118;0,196846364
+relation/5802231;7;administrative;SCBD;relation/5802231;Grogol Petamburan;DKI Jakarta;Jakarta Barat;Tanjung Duren Utara;;boundary;1,34;15429,0207;104;Point;6,042204497;20675;0,394528751
+relation/5802232;7;administrative;SCBD;relation/5802232;Jatinegara;DKI Jakarta;Jakarta Timur;Cipinang Besar Utara;Imigrasi Jakarta Timur;boundary;1,15;51306,4236;105;Point;5,890324207;59002;0,639793960
+relation/5802233;7;administrative;SCBD;relation/5802233;Jagakarsa;DKI Jakarta;Jakarta Selatan;Cipedak;SDN 05 Cipedak;boundary;3,97;12059,1865;106;Point;16,909387198;47875;0,310847201
+relation/5802234;7;administrative;SCBD;relation/5802234;Jatinegara;DKI Jakarta;Jakarta Timur;Cipinang Muara;Cipinang;boundary;2,9;23850,4318;107;Point;7,165818421;69166;1,407835239
+relation/5802235;7;administrative;SCBD;relation/5802235;Cengkareng;DKI Jakarta;Jakarta Barat;Duri Kosambi;Rawa Buaya;boundary;5,91;16641,6244;108;Point;12,621049721;98352;1,067146126
+relation/5802236;7;administrative;SCBD;relation/5802236;Pulo Gadung;DKI Jakarta;Jakarta Timur;Rawamangun;Sunan Giri;boundary;2,6;17758,5544;109;Point;5,997198027;46172;0,330234087
+relation/5802237;7;administrative;SCBD;relation/5802237;Sawah Besar;DKI Jakarta;Jakarta Pusat;Karang Anyar;Mangga Besar;boundary;0,51;64825,8317;110;Point;5,439133888;33061;0,472112070
+relation/5802238;7;administrative;SCBD;relation/5802238;Kebayoran Baru;DKI Jakarta;Jakarta Selatan;Gandaria Utara;Blok A Jalan Ketimun 1;boundary;1,52;31932,6626;111;Point;7,336727580;48538;0,671444386
+relation/5802239;7;administrative;SCBD;relation/5802239;Palmerah;DKI Jakarta;Jakarta Barat;Jati Pulo;;boundary;0,88;41131,2785;112;Point;3,852896651;36196;0,296134891
+relation/5802240;7;administrative;SCBD;relation/5802240;Tanjung Priok;DKI Jakarta;Jakarta Utara;Sunter Agung;SMP 140;boundary;7,02;12533,8194;113;Point;8,105760874;87987;0,588703022
+relation/5802242;7;administrative;SCBD;relation/5802242;Kebayoran Lama;DKI Jakarta;Jakarta Selatan;Kebayoran Lama Utara;;boundary;1,78;29686,3427;114;Point;7,450288919;52842;0,257517519
+relation/5802243;7;administrative;SCBD;relation/5802243;Penjaringan;DKI Jakarta;Jakarta Utara;Kapuk Muara;;boundary;10,06;4428,7419;115;Point;11,424736771;44553;1,604609666
+relation/5802244;7;administrative;SCBD;relation/5802244;Duren Sawit;DKI Jakarta;Jakarta Timur;Duren Sawit;Yayasan Baiturrahman;boundary;4,56;16653,9348;116;Point;10,201573078;75942;0,910489753
+relation/5802245;7;administrative;SCBD;relation/5802245;Tebet;DKI Jakarta;Jakarta Selatan;Manggarai;Pool 4B Halte SMK Karya Guna;boundary;0,95;37286,4638;117;Point;2,732234975;35422;0,263936577
+relation/5802246;7;administrative;SCBD;relation/5802246;Gambir;DKI Jakarta;Jakarta Pusat;Duri Pulo;;boundary;0,71;36214,114;118;Point;5,142798220;25712;0,385148138
+relation/5802247;7;administrative;SCBD;relation/5802247;Gambir;DKI Jakarta;Jakarta Pusat;Gambir;Gambir 1;boundary;2,58;1196,376;119;Point;2,952298126;3087;0,396231390
+relation/5802248;7;administrative;SCBD;relation/5802248;Grogol Petamburan;DKI Jakarta;Jakarta Barat;Tomang;HALTE TJ S PARMAN PODOMORO CITY ARAH TIMUR;boundary;1,88;19217,6925;120;Point;4,974066899;36129;0,528878213
+relation/5802249;7;administrative;SCBD;relation/5802249;Gambir;DKI Jakarta;Jakarta Pusat;Cideng;;boundary;1,26;15333,1223;121;Point;4,020559832;19320;0,170476497
+relation/5802250;7;administrative;SCBD;relation/5802250;Tambora;DKI Jakarta;Jakarta Barat;Tambora;;boundary;0,28;44500,5295;122;Point;6,833674145;12460;0,226793007
+relation/5802251;7;administrative;SCBD;relation/5802251;Jatinegara;DKI Jakarta;Jakarta Timur;Kampung Melayu;;boundary;0,48;67798,4529;123;Point;3,923284896;32543;0,317416092
+relation/5802252;7;administrative;SCBD;relation/5802252;Cengkareng;DKI Jakarta;Jakarta Barat;Cengkareng Timur;Dispenda Samsat Barat;boundary;4,52;22669,103;124;Point;12,379703422;102464;1,787235222
+relation/5802253;7;administrative;SCBD;relation/5802253;Cipayung;DKI Jakarta;Jakarta Timur;Cipayung;Ciracas;boundary;3,09;10592,5446;125;Point;15,680857509;32731;1,323138866
+relation/5802254;7;administrative;SCBD;relation/5802254;Koja;DKI Jakarta;Jakarta Utara;Koja;Enggano;boundary;3,28;10952,1049;126;Point;13,297818858;35923;0,946378618
+relation/5802255;7;administrative;SCBD;relation/5802255;Kemayoran;DKI Jakarta;Jakarta Pusat;Harapan Mulya;Rawa Selatan;boundary;;;127;Point;4,713454530;;0,484703479
+relation/5802256;7;administrative;SCBD;relation/5802256;Tanjung Priok;DKI Jakarta;Jakarta Utara;Sunter Jaya;Yos Sudarso Kodamar;boundary;4,58;17232,0318;128;Point;7,835119749;78923;1,414812954
+relation/5802257;7;administrative;SCBD;relation/5802257;Setiabudi;DKI Jakarta;Jakarta Selatan;Karet;;boundary;0,94;12482,1104;129;Point;1,196390332;11733;0,332990043
+relation/5802258;7;administrative;SCBD;relation/5802258;Cilincing;DKI Jakarta;Jakarta Utara;Cilincing;Stop Point (Green Garden Stop Point) Angkot #28;boundary;6,31;8846,4158;130;Point;16,468788021;55821;4,554307398
+relation/5802259;7;administrative;SCBD;relation/5802259;Matraman;DKI Jakarta;Jakarta Timur;Pisangan Baru;Stasiun Jatinegara 2;boundary;0,68;58044,122;131;Point;4,553292103;39470;0,418661448
+relation/5802260;7;administrative;SCBD;relation/5802260;Cengkareng;DKI Jakarta;Jakarta Barat;Cengkareng Barat;Sumur Bor;boundary;3,61;22924,6513;132;Point;13,625908430;82758;1,685922805
+relation/5802261;7;administrative;SCBD;relation/5802261;Jatinegara;DKI Jakarta;Jakarta Timur;Cipinang Cempedak;Penas Kalimalang;boundary;1,29;30960,4651;133;Point;6,202786188;39939;0,559605255
+relation/5802262;7;administrative;SCBD;relation/5802262;Taman Sari;DKI Jakarta;Jakarta Barat;Glodok;Glodok;boundary;0,38;24106,383;134;Point;6,653313463;9160;0,227779732
+relation/5802263;7;administrative;SCBD;relation/5802263;Pesanggrahan;DKI Jakarta;Jakarta Selatan;Petukangan Utara;Adam Malik;boundary;2,99;22496,324;135;Point;9,058435603;67264;0,720061748
+relation/5802264;7;administrative;SCBD;relation/5802264;Johar Baru;DKI Jakarta;Jakarta Pusat;Tanah Tinggi;;boundary;0,62;77808,637;136;Point;3,494492241;48241;0,624148595
+relation/5802265;7;administrative;SCBD;relation/5802265;Kebayoran Baru;DKI Jakarta;Jakarta Selatan;Gunung;;boundary;1,32;8544,2177;137;Point;5,384486760;11278;0,492476248
+relation/5802266;7;administrative;SCBD;relation/5802266;Makasar;DKI Jakarta;Jakarta Timur;Halim Perdana Kusuma;Halim;boundary;;;138;Point;9,957961371;;2,300416671
+relation/5802267;7;administrative;SCBD;relation/5802267;Kalideres;DKI Jakarta;Jakarta Barat;Semanan;Kalideres;boundary;5,98;15151,1706;139;Point;14,540287311;90604;0,253976578
+relation/5802268;7;administrative;SCBD;relation/5802268;Cakung;DKI Jakarta;Jakarta Timur;Ujung Menteng;Halte AEON Mall Jakarta Garden City;boundary;5,04;7496,7578;140;Point;15,025158031;37784;1,846390546
+relation/5802269;7;administrative;SCBD;relation/5802269;Taman Sari;DKI Jakarta;Jakarta Barat;Tangki;Jayakarta;boundary;3,75;4237,2565;141;Point;6,328118492;15890;0,537657168
+relation/5802270;7;administrative;SCBD;relation/5802270;Koja;DKI Jakarta;Jakarta Utara;Tugu Selatan;Pelumpang Pertamina;boundary;2,68;18926,4925;142;Point;11,744406135;50723;2,132243703
+relation/5802271;7;administrative;SCBD;relation/5802271;Cipayung;DKI Jakarta;Jakarta Timur;Cilangkap;Ciracas;boundary;6,04;5746,4294;143;Point;16,932143187;34708;2,537145478
+relation/5802272;7;administrative;SCBD;relation/5802272;Senen;DKI Jakarta;Jakarta Pusat;Senen;Atrium;boundary;0,81;10665,0185;144;Point;3,206558098;8639;0,142850936
+relation/5802274;7;administrative;SCBD;relation/5802274;Kalideres;DKI Jakarta;Jakarta Barat;Kalideres;Kalideres;boundary;5,71;15892,829;145;Point;15,565531775;90748;1,205541908
+relation/5802275;7;administrative;SCBD;relation/5802275;Kebayoran Baru;DKI Jakarta;Jakarta Selatan;Selong;Tirtayasa;boundary;1,4;2365;146;Point;4,354082715;3311;0,556919627
+relation/5802276;7;administrative;SCBD;relation/5802276;Mampang Prapatan;DKI Jakarta;Jakarta Selatan;Kuningan Barat;Balai Kartini;boundary;0,98;16228,0164;147;Point;3,712067385;15903;0,071322909
+relation/5802278;7;administrative;SCBD;relation/5802278;Jatinegara;DKI Jakarta;Jakarta Timur;Cipinang Besar Selatan;Cipinang Kebon Nanas;boundary;1,63;27229,8419;148;Point;6,457014728;44385;0,616774223
+relation/5802279;7;administrative;SCBD;relation/5802279;Palmerah;DKI Jakarta;Jakarta Barat;Kemanggisan;;boundary;2,11;18683,5503;149;Point;4,417848638;39422;1,007925902
+relation/5802280;7;administrative;SCBD;relation/5802280;Pademangan;DKI Jakarta;Jakarta Utara;Pademangan Timur;SMP 140;boundary;2,61;17586,5105;150;Point;7,049739121;45901;1,053147582
+relation/5802281;7;administrative;SCBD;relation/5802281;Cipayung;DKI Jakarta;Jakarta Timur;Taman Mini Indonesia Indah (TMII);Kereta Api Mini;boundary;;;151;Point;13,210212051;;0,198788825
+relation/5802282;7;administrative;SCBD;relation/5802282;Taman Sari;DKI Jakarta;Jakarta Barat;Taman Sari;Mangga Besar;boundary;0,68;25497,6373;152;Point;5,485222669;17338;0,560982495
+relation/5802283;7;administrative;SCBD;relation/5802283;Matraman;DKI Jakarta;Jakarta Timur;Utan Kayu Utara;Pramuka LIA;boundary;1,07;32539,1062;153;Point;4,444594540;34817;0,453488405
+relation/5802284;7;administrative;SCBD;relation/5802284;Pancoran;DKI Jakarta;Jakarta Selatan;Cikoko;Cikoko;boundary;0,72;18288,4642;154;Point;5,417009401;13168;0,321502150
+relation/5802285;7;administrative;SCBD;relation/5802285;Gambir;DKI Jakarta;Jakarta Pusat;Petojo Selatan;;boundary;1,14;16585,3873;155;Point;3,412568304;18907;0,430934293
+relation/5802286;7;administrative;SCBD;relation/5802286;Koja;DKI Jakarta;Jakarta Utara;Rawabadak Utara;halte walikota jakarta utara;boundary;;;156;Point;12,007448652;;0,577861768
+relation/5802287;7;administrative;SCBD;relation/5802287;Tambora;DKI Jakarta;Jakarta Barat;Duri Selatan;;boundary;0,34;50941,691;157;Point;5,540582241;17320;0,375286195
+relation/5802288;7;administrative;SCBD;relation/5802288;Penjaringan;DKI Jakarta;Jakarta Utara;Pluit;Halte Busway Baywalk Mall 1;boundary;7,71;7469,1062;158;Point;10,940612909;57587;0,740909621
+relation/5802289;7;administrative;SCBD;relation/5802289;Pulo Gadung;DKI Jakarta;Jakarta Timur;Pisangan Timur;Imigrasi Jakarta Timur;boundary;1,79;28348,3065;159;Point;5,724587348;50743;0,692009277
+relation/5802290;7;administrative;SCBD;relation/5802290;Tanah Abang;DKI Jakarta;Jakarta Pusat;Kebon Melati;;boundary;1,26;33113,1099;160;Point;1,555502334;41723;0,232584633
+relation/5802291;7;administrative;SCBD;relation/5802291;Kembangan;DKI Jakarta;Jakarta Barat;Meruya Selatan;Komplek DPR RI III;boundary;2,8;14427,8571;161;Point;10,479191706;40398;0,881054538
+relation/5802292;7;administrative;SCBD;relation/5802292;Kemayoran;DKI Jakarta;Jakarta Pusat;Sumur Batu;Cempaka Timur;boundary;1,15;25498,6945;162;Point;6,430337509;29323;0,559205423
+relation/5802293;7;administrative;SCBD;relation/5802293;Kebayoran Lama;DKI Jakarta;Jakarta Selatan;Cipulir;Seskoal;boundary;1,93;25668,9084;163;Point;7,246674466;49541;0,157587538
+relation/5802294;7;administrative;SCBD;relation/5802294;Mampang Prapatan;DKI Jakarta;Jakarta Selatan;Pela Mampang;Kantor Lurah Pulo;boundary;1,62;33021,8088;164;Point;5,180232864;53495;0,838741805
+relation/5802295;7;administrative;SCBD;relation/5802295;Matraman;DKI Jakarta;Jakarta Timur;Kayu Manis;;boundary;0,58;54362,8472;165;Point;3,713310669;31530;0,572810562
+relation/5802296;7;administrative;SCBD;relation/5802296;Setiabudi;DKI Jakarta;Jakarta Selatan;Guntur;;boundary;0,66;7080,6794;166;Point;0,723299413;4673;0,343466733
+relation/5802297;7;administrative;SCBD;relation/5802297;Kembangan;DKI Jakarta;Jakarta Barat;Joglo;Ruko Puri Botanical Joglo Raya;boundary;4,86;10541,6752;167;Point;10,094543797;51233;0,143524929
+relation/5802298;7;administrative;SCBD;relation/5802298;Kramat Jati;DKI Jakarta;Jakarta Timur;Kramat Jati;RS. Dik Pusdikes;boundary;1,52;28020,8471;168;Point;9,128591357;42592;0,301538932
+relation/5802299;7;administrative;SCBD;relation/5802299;Kebayoran Baru;DKI Jakarta;Jakarta Selatan;Senayan;Halte Bus FWD;boundary;1,53;2232,5278;169;Point;3,305089025;3416;0,165933592
+relation/5802300;7;administrative;SCBD;relation/5802300;Kebayoran Lama;DKI Jakarta;Jakarta Selatan;Pondok Pinang;Gedung Hijau Raya;boundary;6,84;10115,4971;170;Point;9,723967549;69190;0,297310262
+relation/5802301;7;administrative;SCBD;relation/5802301;Setiabudi;DKI Jakarta;Jakarta Selatan;Karet Semanggi;Otorita Asahan;boundary;0,9;3687,493;171;Point;2,449856224;3319;0,170075472
+relation/5802302;7;administrative;SCBD;relation/5802302;Kebayoran Baru;DKI Jakarta;Jakarta Selatan;Pulo;Simpang Dharmawangsa VIII;boundary;1,27;5351,735;172;Point;6,283143673;6797;0,413512115
+relation/5802303;7;administrative;SCBD;relation/5802303;Pasar Rebo;DKI Jakarta;Jakarta Timur;Gedong;Flyover Raya Bogor;boundary;2,63;16987,8512;173;Point;11,448050272;44678;0,738641421
+relation/5802304;7;administrative;SCBD;relation/5802304;Cakung;DKI Jakarta;Jakarta Timur;Cakung Barat;Halte AEON Mall Jakarta Garden City;boundary;6,12;12184,4129;174;Point;12,268641930;74569;2,071149533
+relation/5802305;7;administrative;SCBD;relation/5802305;Tanjung Priok;DKI Jakarta;Jakarta Utara;Papanggo;;boundary;2,8;17797,8049;175;Point;9,446039702;49834;1,461534028
+relation/5802306;7;administrative;SCBD;relation/5802306;Pesanggrahan;DKI Jakarta;Jakarta Selatan;Ulujami;Cipulir;boundary;1,71;30104,9853;176;Point;8,115182092;51480;0,260440514
+relation/5802307;7;administrative;SCBD;relation/5802307;Johar Baru;DKI Jakarta;Jakarta Pusat;Kampung Rawa;Galur;boundary;0,3;91079,3756;177;Point;3,954631304;27324;0,568067919
+relation/5802308;7;administrative;SCBD;relation/5802308;Mampang Prapatan;DKI Jakarta;Jakarta Selatan;Tegal Parang;Duren Tiga;boundary;1,06;38367,4242;178;Point;5,050651129;40669;0,423525368
+relation/5802309;7;administrative;SCBD;relation/5802309;Makasar;DKI Jakarta;Jakarta Timur;Makasar;RS. Dik Pusdikes;boundary;1,61;26868,712;179;Point;9,605700347;43259;0,938442420
+relation/5802310;7;administrative;SCBD;relation/5802310;Kebon Jeruk;DKI Jakarta;Jakarta Barat;Sukabumi Selatan;;boundary;1,57;30123,024;180;Point;6,603870190;47293;0,598456167
+relation/5802311;7;administrative;SCBD;relation/5802311;Kebayoran Lama;DKI Jakarta;Jakarta Selatan;Kebayoran Lama Selatan;;boundary;2,57;19666,0446;181;Point;7,821350421;50542;0,205410245
+relation/5802313;7;administrative;SCBD;relation/5802313;Pasar Minggu;DKI Jakarta;Jakarta Selatan;Pejaten Timur;Masjid At Taqwa 2;boundary;2,68;26990,6284;182;Point;8,775269002;72335;0,453672254
+relation/5802314;7;administrative;SCBD;relation/5802314;Cakung;DKI Jakarta;Jakarta Timur;Rawa Terate;Pulo Gadung;boundary;3,3;9549,0909;183;Point;10,332228633;31512;1,187478336
+relation/5802315;7;administrative;SCBD;relation/5802315;Pulo Gadung;DKI Jakarta;Jakarta Timur;Jatinegara Kaum;Layur;boundary;1,23;25201,2961;184;Point;8,050450449;30998;0,727351409
+relation/5802316;7;administrative;SCBD;relation/5802316;Pasar Minggu;DKI Jakarta;Jakarta Selatan;Jati Padang;Gang Haji Ja'anih;boundary;2,5;18691,5963;185;Point;9,421480728;46729;0,206337591
+relation/5802317;7;administrative;SCBD;relation/5802317;Grogol Petamburan;DKI Jakarta;Jakarta Barat;Jelambar;Grogol;boundary;1,44;25372,0496;186;Point;6,781524449;36536;0,359129831
+relation/5802318;7;administrative;SCBD;relation/5802318;Cakung;DKI Jakarta;Jakarta Timur;Cakung Timur;;boundary;9,81;7620,7038;187;Point;14,430570718;74759;0,452922013
+relation/5802319;7;administrative;SCBD;relation/5802319;Gambir;DKI Jakarta;Jakarta Pusat;Petojo Utara;;boundary;1,12;20023,2475;188;Point;4,430682949;22426;0,490530221
+relation/5802320;7;administrative;SCBD;relation/5802320;Cilandak;DKI Jakarta;Jakarta Selatan;Cilandak Barat;Fatmawati 1;boundary;6,05;10443,7645;189;Point;10,272890470;63185;0,253494438
+relation/5802321;7;administrative;SCBD;relation/5802321;Kebon Jeruk;DKI Jakarta;Jakarta Barat;Kedoya Utara;;boundary;3,15;17927,4414;190;Point;8,388771595;56471;0,392960770
+relation/5802322;7;administrative;SCBD;relation/5802322;Kepulauan Seribu Utara;DKI Jakarta;Kepulauan Seribu;Pulau Harapan;;boundary;;;191;Point;66,866157592;;53,043783403
+relation/5802323;7;administrative;SCBD;relation/5802323;Kebayoran Baru;DKI Jakarta;Jakarta Selatan;Rawa Barat;Rawa Barat;boundary;0,69;9643,2698;192;Point;4,056912377;6654;0,481892914
+relation/5802324;7;administrative;SCBD;relation/5802324;Kembangan;DKI Jakarta;Jakarta Barat;Meruya Utara;Haji Sa'aba Raya;boundary;4,33;12594,7145;193;Point;9,995101380;54535;1,913228389
+relation/5802325;7;administrative;SCBD;relation/5802325;Menteng;DKI Jakarta;Jakarta Pusat;Gondangdia;Halte SPBU / Yayasan Kanker Indonesia;boundary;1,46;3356,1926;194;Point;1,259725968;4900;0,119811956
+relation/5802326;7;administrative;SCBD;relation/5802326;Ciracas;DKI Jakarta;Jakarta Timur;Kelapa Dua Wetan;Ciracas;boundary;3,37;17390,3105;195;Point;16,390522482;58605;1,877883643
+relation/5802327;7;administrative;SCBD;relation/5802327;Jagakarsa;DKI Jakarta;Jakarta Selatan;Tanjung Barat;Halte Fly Over Raya Bogor;boundary;3,65;13636,1891;196;Point;11,639526420;49772;0,709307975
+relation/5802328;7;administrative;SCBD;relation/5802328;Penjaringan;DKI Jakarta;Jakarta Utara;Penjagalan;Jembatan Tiga;boundary;;;197;Point;8,858411941;;0,629814059
+relation/5802329;7;administrative;SCBD;relation/5802329;Sawah Besar;DKI Jakarta;Jakarta Pusat;Kartini;;boundary;0,57;49343,3099;198;Point;5,553227595;28126;0,261685346
+relation/5802330;7;administrative;SCBD;relation/5802330;Duren Sawit;DKI Jakarta;Jakarta Timur;Malaka Jaya;;boundary;0,99;38672,3335;199;Point;11,980639143;38286;0,726668737
+relation/5802331;7;administrative;SCBD;relation/5802331;Senen;DKI Jakarta;Jakarta Pusat;Bungur;;boundary;0,63;36505,4278;200;Point;4,098934389;22998;0,341122154
+relation/5802332;7;administrative;SCBD;relation/5802332;Duren Sawit;DKI Jakarta;Jakarta Timur;Malaka Sari;SMKN 48;boundary;1,38;24415,1053;201;Point;11,277300545;33693;0,750704855
+relation/5802333;7;administrative;SCBD;relation/5802333;Cilincing;DKI Jakarta;Jakarta Utara;Rorotan;Stop Point (Green Garden Stop Point) Angkot #28;boundary;10,64;5074,081;202;Point;15,437083778;53988;1,126420611
+relation/5802334;7;administrative;SCBD;relation/5802334;Tanah Abang;DKI Jakarta;Jakarta Pusat;Gelora;Senayan JCC;boundary;2,59;1519,7005;203;Point;3,336751897;3936;0,719572205
+relation/5802335;7;administrative;SCBD;relation/5802335;Tambora;DKI Jakarta;Jakarta Barat;Tanah Sereal;;boundary;0,62;52418,3856;204;Point;5,819863931;32499;0,228013887
+relation/5802336;7;administrative;SCBD;relation/5802336;Pulo Gadung;DKI Jakarta;Jakarta Timur;Pulo Gadung;Bermis;boundary;1,92;22261,0504;205;Point;8,076911498;42741;0,509986247
+relation/5802337;7;administrative;SCBD;relation/5802337;Ciracas;DKI Jakarta;Jakarta Timur;Cibubur;Ciracas;boundary;4,5;18297,0974;206;Point;18,044794968;82337;3,620031759
+relation/5802338;7;administrative;SCBD;relation/5802338;Cilandak;DKI Jakarta;Jakarta Selatan;Lebak Bulus;Gereja Baptis Indonesia Cilandak;boundary;4,11;11119,8347;207;Point;12,151620028;45703;0,117939151
+relation/5802339;7;administrative;SCBD;relation/5802339;Senen;DKI Jakarta;Jakarta Pusat;Paseban;;boundary;0,71;41898,8937;208;Point;2,860203359;29748;0,380256394
+relation/5802340;7;administrative;SCBD;relation/5802340;Duren Sawit;DKI Jakarta;Jakarta Timur;Pondok Kopi;Jalan Arabika III;boundary;2,06;21604,3689;209;Point;12,892030362;44505;0,175637843
+relation/5802341;7;administrative;SCBD;relation/5802341;Pancoran;DKI Jakarta;Jakarta Selatan;Pancoran;Halte Pancoran 1;boundary;1,22;20036,9458;210;Point;5,085685281;24445;0,220182233
+relation/5802342;7;administrative;SCBD;relation/5802342;Senen;DKI Jakarta;Jakarta Pusat;Kenari;Salemba UI;boundary;0,92;12961,7486;211;Point;2,258237108;11925;0,180595833
+relation/5802343;7;administrative;SCBD;relation/5802343;Koja;DKI Jakarta;Jakarta Utara;Rawabadak Selatan;Pelumpang Pertamina;boundary;;;212;Point;11,116315104;;0,633948690
+relation/5802344;7;administrative;SCBD;relation/5802344;Pasar Minggu;DKI Jakarta;Jakarta Selatan;Pasar Minggu;Grand Pasar Minggu;boundary;2,79;10904,8816;213;Point;9,657634753;30425;0,369579284
+relation/5802345;7;administrative;SCBD;relation/5802345;Cilincing;DKI Jakarta;Jakarta Utara;Suka Pura;Pegangsaan Dua;boundary;;;214;Point;12,500374090;;1,607169133
+relation/5802346;7;administrative;SCBD;relation/5802346;Kemayoran;DKI Jakarta;Jakarta Pusat;Utan Panjang;;boundary;0,54;70241,5548;215;Point;5,054161220;37930;0,758041107
+relation/5802347;7;administrative;SCBD;relation/5802347;Grogol Petamburan;DKI Jakarta;Jakarta Barat;Jelambar Baru;;boundary;0,14;32609,8748;216;Point;7,530339863;4565;0,750329065
+relation/5802348;7;administrative;SCBD;relation/5802348;Setiabudi;DKI Jakarta;Jakarta Selatan;Setiabudi;Dukuh Atas;boundary;;;217;Point;0,572254402;;0,256995059
+relation/5802349;7;administrative;SCBD;relation/5802349;Kramat Jati;DKI Jakarta;Jakarta Timur;Cililitan;PGC 2;boundary;1,76;28509,2967;218;Point;7,660867607;50176;0,210425507
+relation/5802350;7;administrative;SCBD;relation/5802350;Pasar Minggu;DKI Jakarta;Jakarta Selatan;Pejaten Barat;Buncit Indah;boundary;2,9;15904,6206;219;Point;7,746226214;46123;0,411099797
+relation/5802351;7;administrative;SCBD;relation/5802351;Tambora;DKI Jakarta;Jakarta Barat;Krendang;;boundary;;;220;Point;6,460207551;;0,372460438
+relation/5802352;7;administrative;SCBD;relation/5802352;Pesanggrahan;DKI Jakarta;Jakarta Selatan;Bintaro;Jalan Bintaro Barat;boundary;4,56;14368,3864;221;Point;10,350241083;65520;0,693088726
+relation/5802353;7;administrative;SCBD;relation/5802353;Kalideres;DKI Jakarta;Jakarta Barat;Kamal;;boundary;4,9;14014,9306;222;Point;17,828816132;68673;4,425455159
+relation/5802354;7;administrative;SCBD;relation/5802354;Cipayung;DKI Jakarta;Jakarta Timur;Bambu Apus;;boundary;3,17;10391,4445;223;Point;14,641761409;32941;1,219436960
+relation/5802355;7;administrative;SCBD;relation/5802355;Kemayoran;DKI Jakarta;Jakarta Pusat;Kebon Kosong;Pool Damri Kemayoran;boundary;1,16;33130,3447;224;Point;5,760953684;38431;0,728289153
+relation/5802356;7;administrative;SCBD;relation/5802356;Setiabudi;DKI Jakarta;Jakarta Selatan;Pasar Manggis;Pasar Rumput;boundary;0,78;42539,7436;225;Point;1,641824487;33181;0,416556736
+relation/5802357;7;administrative;SCBD;relation/5802357;Kemayoran;DKI Jakarta;Jakarta Pusat;Kemayoran;;boundary;0,53;50254,9952;226;Point;4,644752092;26635;0,388131703
+relation/5802359;7;administrative;SCBD;relation/5802359;Duren Sawit;DKI Jakarta;Jakarta Timur;Klender;Kampung Sumur;boundary;3,05;28953,7553;227;Point;8,950706322;88309;0,585721198
+relation/5802360;7;administrative;SCBD;relation/5802360;Makasar;DKI Jakarta;Jakarta Timur;Cipinang Melayu;Halte RS Harum Sisma Medika;boundary;2,53;20907,077;228;Point;9,959013244;52895;1,055730474
+relation/5802361;7;administrative;SCBD;relation/5802361;Setiabudi;DKI Jakarta;Jakarta Selatan;Karet Kuningan;Halte Ambasador Mall Ambasador;boundary;1,79;11034,0973;229;Point;1,922104025;19751;0,434992748
+relation/5802362;7;administrative;SCBD;relation/5802362;Koja;DKI Jakarta;Jakarta Utara;Tugu Utara;halte pelumpang pertamina;boundary;3,32;26342,4699;230;Point;12,699988426;87457;2,070540396
+relation/5802363;7;administrative;SCBD;relation/5802363;Ciracas;DKI Jakarta;Jakarta Timur;Ciracas;Ciracas;boundary;3,93;20623,871;231;Point;14,540022081;81052;1,300619806
+relation/5802364;7;administrative;SCBD;relation/5802364;Tambora;DKI Jakarta;Jakarta Barat;Roa Malaka;Kali Besar Barat;boundary;0,53;7516,0075;232;Point;7,687215186;3983;0,258459104
+relation/5802365;7;administrative;SCBD;relation/5802365;Ciracas;DKI Jakarta;Jakarta Timur;Rambutan;Kampung Rambutan;boundary;2,09;22237,3206;233;Point;12,745981115;46476;0,845538139
+relation/5802366;7;administrative;SCBD;relation/5802366;Kembangan;DKI Jakarta;Jakarta Barat;Kembangan Selatan;Bojong Indah;boundary;3,61;9264,5734;234;Point;10,122237885;33445;2,662687491
+relation/5802367;7;administrative;SCBD;relation/5802367;Pasar Rebo;DKI Jakarta;Jakarta Timur;Kalisari;Halte SMAN 38;boundary;2,89;18617,3778;235;Point;14,854486720;53804;1,709378355
+relation/5802368;7;administrative;SCBD;relation/5802368;Jatinegara;DKI Jakarta;Jakarta Timur;Bidara Cina;Gelanggang Remaja;boundary;1,26;35848,5329;236;Point;5,530929187;45169;0,167344810
+relation/5802369;7;administrative;SCBD;relation/5802369;Cilandak;DKI Jakarta;Jakarta Selatan;Cipete Selatan;;boundary;2,32;14114,4555;237;Point;8,129083750;32746;0,910143682
+relation/5802370;7;administrative;SCBD;relation/5802370;Cipayung;DKI Jakarta;Jakarta Timur;Lubang Buaya;Taman Burung;boundary;3,72;21439,5486;238;Point;13,040994192;79755;0,767310761
+relation/5802371;7;administrative;SCBD;relation/5802371;Kebayoran Baru;DKI Jakarta;Jakarta Selatan;Kramat Pela;One Park Residence;boundary;1,25;14087,9648;239;Point;6,099822305;17610;0,304031032
+relation/5802372;7;administrative;SCBD;relation/5802372;Johar Baru;DKI Jakarta;Jakarta Pusat;Johar Baru;Gang Sentiong;boundary;1,19;39507,1369;240;Point;3,675913963;47013;0,726455637
+relation/5802373;7;administrative;SCBD;relation/5802373;Kepulauan Seribu Selatan;DKI Jakarta;Kepulauan Seribu;Pulau Tidung;;boundary;;;241;Point;55,906993180;;40,791642549
+relation/5802374;7;administrative;SCBD;relation/5802374;Pasar Minggu;DKI Jakarta;Jakarta Selatan;Ragunan;Kementan RI;boundary;5,05;9681,0239;242;Point;10,611245750;48889;0,037378307
+relation/5802375;7;administrative;SCBD;relation/5802375;Tambora;DKI Jakarta;Jakarta Barat;Angke;Jembatan Dua;boundary;0,78;46651,2405;243;Point;7,328298792;36388;0,340445801
+relation/5802376;7;administrative;SCBD;relation/5802376;Jagakarsa;DKI Jakarta;Jakarta Selatan;Srengseng Sawah;Sekolah Perguruan Rakyat 1;boundary;6,75;10731,7326;244;Point;16,072923224;72439;0,481957188
+relation/5802377;7;administrative;SCBD;relation/5802377;Cipayung;DKI Jakarta;Jakarta Timur;Pondok Ranggon;Ciracas;boundary;3,66;8729,4237;245;Point;19,008067871;31950;4,245486333
+relation/5802378;7;administrative;SCBD;relation/5802378;Kemayoran;DKI Jakarta;Jakarta Pusat;Cempaka Baru;Cempaka Tengah;boundary;0,99;42602,4363;246;Point;5,409621638;42176;0,405753206
+relation/5802379;7;administrative;SCBD;relation/5802379;Pademangan;DKI Jakarta;Jakarta Utara;Pademangan Barat;;boundary;3,53;26463,846;247;Point;7,598860284;93417;0,575690736
+relation/5802380;7;administrative;SCBD;relation/5802380;Kepulauan Seribu Selatan;DKI Jakarta;Kepulauan Seribu;Pulau Untung Jawa;;boundary;;;248;Point;26,874391915;;12,253759427
+relation/5802381;7;administrative;SCBD;relation/5802381;Cipayung;DKI Jakarta;Jakarta Timur;Setu;;boundary;3,25;7953,6786;249;Point;15,447006934;25849;0,972889169
+relation/5802382;7;administrative;SCBD;relation/5802382;Setiabudi;DKI Jakarta;Jakarta Selatan;Menteng Atas;Halte Masjid Baiturrahman;boundary;0,9;38091,8142;250;Point;2,041185943;34283;0,446572220
+relation/5802383;7;administrative;SCBD;relation/5802383;Kebon Jeruk;DKI Jakarta;Jakarta Barat;Kelapa Dua;Kelapa Dua Sasak;boundary;1,5;19522,4476;251;Point;6,673856250;29284;0,427026907
+relation/5802384;7;administrative;SCBD;relation/5802384;Taman Sari;DKI Jakarta;Jakarta Barat;Maphar;Sawah Besar;boundary;0,59;33563,3158;252;Point;5,286875771;19802;0,594721723
+relation/5802385;7;administrative;SCBD;relation/5802385;Senen;DKI Jakarta;Jakarta Pusat;Kramat;;boundary;0,71;51467,4757;253;Point;2,923430974;36542;0,366958763
+relation/5802386;7;administrative;SCBD;relation/5802386;Ciracas;DKI Jakarta;Jakarta Timur;Susukan;;boundary;2,19;21998,6292;254;Point;12,908808318;48177;0,829672939
+relation/5802387;7;administrative;SCBD;relation/5802387;Penjaringan;DKI Jakarta;Jakarta Utara;Penjaringan;;boundary;3,95;28358,7487;255;Point;9,532356405;112017;0,532783473
+relation/5802388;7;administrative;SCBD;relation/5802388;Kemayoran;DKI Jakarta;Jakarta Pusat;Gunung Sahari Selatan;;boundary;1,53;16179,6212;256;Point;5,136621373;24755;0,240073591
+relation/5802389;7;administrative;SCBD;relation/5802389;Senen;DKI Jakarta;Jakarta Pusat;Kwitang;Kwitang;boundary;0,45;43939,5973;257;Point;2,538043052;19773;0,276772468
+relation/5802390;7;administrative;SCBD;relation/5802390;Kemayoran;DKI Jakarta;Jakarta Pusat;Serdang;Kemayoran Landasan Pacu Timur;boundary;0,82;46197,2516;258;Point;6,071285828;37882;1,070788268
+relation/7152610;7;administrative;SCBD;relation/7152610;Tebet;DKI Jakarta;Jakarta Selatan;Tebet Barat;Halte Kecamatan Tebet 2;boundary;1,72;14987,7622;259;Point;4,159992879;25779;0,410653094
+relation/7152644;7;administrative;SCBD;relation/7152644;Tebet;DKI Jakarta;Jakarta Selatan;Tebet Timur;Halte Telkom Vision;boundary;1,39;15627,0698;260;Point;4,506021408;21722;0,989300752
+relation/7192893;7;administrative;SCBD;relation/7192893;Cempaka Putih;DKI Jakarta;Jakarta Pusat;Rawasari;Utan Kayu;boundary;1,25;21983,1663;261;Point;4,362293334;27479;0,217027401
+relation/7198380;7;administrative;SCBD;relation/7198380;Cempaka Putih;DKI Jakarta;Jakarta Pusat;Cempaka Putih Timur;Pulo Mas By Pass;boundary;2,23;13441,5993;262;Point;5,636905423;29975;0,494338626
+relation/7198389;7;administrative;SCBD;relation/7198389;Cempaka Putih;DKI Jakarta;Jakarta Pusat;Cempaka Putih Barat;Pasar Cempaka Putih;boundary;1,22;36910,6425;263;Point;4,661458407;45031;0,808810551
+relation/7198542;7;administrative;SCBD;relation/7198542;Tebet;DKI Jakarta;Jakarta Selatan;Menteng Dalam;Komplek Keuangan Supomo;boundary;2,1;21361,4286;264;Point;3,448013093;44859;0,391340999
+relation/7210655;7;administrative;SCBD;relation/7210655;Tebet;DKI Jakarta;Jakarta Selatan;Bukit Duri;;boundary;1,07;39465,4705;265;Point;3,839766726;42228;0,636912614
+relation/7212530;7;administrative;SCBD;relation/7212530;Menteng;DKI Jakarta;Jakarta Pusat;Menteng;;boundary;2,44;13110,0361;266;Point;0,637578719;31988;0,205525205
+relation/7212612;7;administrative;SCBD;relation/7212612;Menteng;DKI Jakarta;Jakarta Pusat;Pegangsaan;Proklamasi;boundary;0,98;29870,7379;267;Point;2,138624532;29273;0,073474085
+relation/7212839;7;administrative;SCBD;relation/7212839;Menteng;DKI Jakarta;Jakarta Pusat;Cikini;Hotel Ibis Budget;boundary;0,82;12709,2216;268;Point;1,765138160;10422;0,061843695
